@@ -1,0 +1,9 @@
+name: Jakkit
+version: 1.0
+author: rapublic
+main: com.wolfodev.App
+commands:
+    eval:
+        description: An example command
+        permission: spigotplugin.eval
+        usage: /eval
