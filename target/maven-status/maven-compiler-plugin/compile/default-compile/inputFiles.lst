@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 /home/robert/projects/jakkit/src/main/java/com/wolfodev/App.java
 /home/robert/projects/jakkit/src/main/java/com/wolfodev/Eval.java
+=======
+C:\Users\Klokk\Documents\jakkit-master\src\main\java\com\wolfodev\Runtime.java
+C:\Users\Klokk\Documents\jakkit-master\src\main\java\com\wolfodev\App.java
+C:\Users\Klokk\Documents\jakkit-master\src\main\java\com\wolfodev\Eval.java
+C:\Users\Klokk\Documents\jakkit-master\src\main\java\com\wolfodev\Generator.java
+>>>>>>> 43e0fa5 (Initial Working Commit)

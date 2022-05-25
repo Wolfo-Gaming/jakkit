@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8" ?>
+=======
+<?xml version="1.0" encoding="UTF-8" ?>
+>>>>>>> 43e0fa5 (Initial Working Commit)
 <testsuite tests="1" failures="0" name="org.coderdojo_nbg.AppTest" time="0.003" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -20,7 +24,11 @@
     <property name="java.runtime.version" value="17.0.2+8-LTS-86"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.io.tmpdir" value="C:\Users\Klokk\AppData\Local\Temp\"/>
+<<<<<<< HEAD
     <property name="line.separator" value="
+=======
+    <property name="line.separator" value="
+>>>>>>> 43e0fa5 (Initial Working Commit)
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
